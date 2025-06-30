@@ -48,13 +48,13 @@ A comprehensive full-stack web application that bridges the gap between voluntee
 - **Language:** C#
 - **Framework:** ASP.NET Core MVC (Web API)
 - **ORM:** Entity Framework Core
-- **Database:** SQL Server
+- **Database:** SQL Server (PostgreSQL)
 - **IDE:** Visual Studio 2022
 
 ### Frontend
 - **Framework:** Angular
 - **Styling:** Bootstrap 5 / TailwindCSS
-- **Tools:** HTML, CSS, JavaScript, jQuery
+- **Language:** TypeScript
 - **IDE:** Visual Studio Code
 
 ---
