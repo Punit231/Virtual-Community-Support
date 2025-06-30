@@ -51,10 +51,11 @@ A comprehensive full-stack web application that bridges the gap between voluntee
 - **Database:** SQL Server
 - **IDE:** Visual Studio 2022
 
-### Frontend *(if applicable)*
-- **Framework:** Razor Pages / React / Angular *(depends on actual project)*
+### Frontend
+- **Framework:** Angular
 - **Styling:** Bootstrap 5 / TailwindCSS
 - **Tools:** HTML, CSS, JavaScript, jQuery
+- **IDE:** Visual Studio Code
 
 ---
 
@@ -133,9 +134,9 @@ Each module plays a crucial role in separating concerns and maintaining a clean 
    ```bash
    npm install
    ```
-3. Start the development server:
+3. Run the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 4. The app should now be running at `http://localhost:3000`
 
